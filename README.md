@@ -1,2 +1,2 @@
 # finance-math
-Repository for learning and practicing financial mathematics
+Repository for learning and practicing financial mathematics.
